@@ -19,3 +19,11 @@ Incluye comparaciones de:
 *(Compatible con computadoras y móviles)*
 
 Este informe fue desarrollado con Power BI Desktop y publicado en Power BI Service como parte de mi formación y práctica profesional en análisis visual de datos.
+
+---
+
+📘 **Nota:**  
+Este proyecto fue realizado como parte de mi formación en **Data Science**, con foco en el análisis del impacto económico y mediático de eventos culturales masivos.  
+A través de técnicas de análisis exploratorio y visualización, examiné cómo los datos pueden evidenciar la influencia de fenómenos artísticos en el comportamiento del público y los medios.  
+
+Actualmente, mi enfoque profesional se centra en la **Inteligencia Artificial y la automatización**, utilizando herramientas de **IA generativa** para optimizar el análisis de información y generar insights aplicables en entornos empresariales y creativos.
